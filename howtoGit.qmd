@@ -1,0 +1,17 @@
+---
+title: "How to connect a new RStudio project to a GitHub repository"
+---
+
+## Create a new RStudio project
+
+1.  Create a new RStudio project and check "Create a git repository"
+
+2.  Open GitHub and create a new repository for this project
+
+3.  Navigate to the terminal in RStudio
+
+4.  Make sure you are in the correct working directory "pwd"
+
+5.  Type git init
+
+6.  git remote add origin <https://github.com/Alex-B-7/ytDemo.git>
