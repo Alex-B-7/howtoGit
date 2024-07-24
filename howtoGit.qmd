@@ -1,5 +1,5 @@
 ---
-title: "How to connect a new RStudio project to a GitHub repository"
+title: "How to connect an RStudio project to a GitHub repository"
 ---
 
 1.  Create a new RStudio project and check "Create a git repository"
@@ -30,9 +30,8 @@ title: "How to connect a new RStudio project to a GitHub repository"
     git commit -m "Initial commit"
     ```
 
-```{=html}
 <!-- -->
-```
+
 9.  Push it to GitHub
 
     ``` bash
